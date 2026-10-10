@@ -3,7 +3,9 @@
 
 
 Version:
-    1
+    2
 
 Quotes:
-1.- "I can't promise I'll try, but I'll try to try"
+1.- "I can't promise I'll try, but I'll try to try."
+2.- "Boy cries wolf, has a few laughs, I forget how it ends."
+3.- "But who'd wanna hurt me? I'm this century's Dennis the Menace!"
