@@ -8,11 +8,10 @@
 # LA VERSION ES INMUTABLE POR CAMBIO, NUNCA DESCENDENTE
 
 # LAS CITAS DEBERAN SEGIR LOS LINEAMIENTOS DEL CÓDIGO DE COMPORTAMIENTO
-# ABRI EL BRANCH CSSV35, QUITAR CITA OFENSIVA, VERSIONAR, QUITAR ESTA LINEA 
 
 
 Version:
-    12
+    13
 
 
 Quotes:
@@ -26,3 +25,4 @@ Quotes:
     "El hombre araña siempre tendrá enemigos. No quiero arriesgarte nunca, y yo siempre seré el hombre araña. Para nosotros no hay futuro."
     "¿Quieren saber quién soy? ¿Están seguros? La historia de mi vida no es para los débiles de corazón. Si alguien dijera que es una historia feliz... Si alguien dijera que soy una persona ordinaria, sin nada de qué preocuparme... les estaría mintiendo."
     "Lo mejor de Mary Jane es cuando la miras a los ojos y ella te mira a los tuyos."
+    
