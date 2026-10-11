@@ -9,7 +9,7 @@
 
 
 Version:
-    11
+    10
 
 
 Quotes:
@@ -22,4 +22,3 @@ Quotes:
     "Un gran poder conlleva una gran responsabilidad."
     "A veces, para hacer lo correcto, tienes que ser firme y renunciar a lo que más deseas."
     "El hombre araña siempre tendrá enemigos. No quiero arriesgarte nunca, y yo siempre seré el hombre araña. Para nosotros no hay futuro."
-    
