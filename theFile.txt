@@ -9,7 +9,7 @@
 
 
 Version:
-    9
+    11
 
 
 Quotes:
@@ -21,3 +21,5 @@ Quotes:
     "Deja de decir mmds MaryJane!."
     "Un gran poder conlleva una gran responsabilidad."
     "A veces, para hacer lo correcto, tienes que ser firme y renunciar a lo que más deseas."
+    "El hombre araña siempre tendrá enemigos. No quiero arriesgarte nunca, y yo siempre seré el hombre araña. Para nosotros no hay futuro."
+    
