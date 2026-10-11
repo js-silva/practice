@@ -1,11 +1,11 @@
 # PONER UNA CITA, AL MENOS
 # VERSIONAR 
 
-# CADA CAMBIO DEBE DE HACERSE EN RAMA BASADA EN WORK Y DEBERA SOLICITARSE REVISION DEL PR ANTES DE HACER MERGUE
+# CADA CAMBIO DEBE DE HACERSE EN RAMA BASADA EN WORK Y DEBERA SOLICITARSE REVISIóN DEL PR ANTES DE HACER MERGUE
 
 # SOLO SE PERMITEN CITAS DE: BART SIMPSON, DCU, SPIDER MAN
 # LAS CITAS NO LLEVARAN CONSECUTIVO
-# LA VERSION ES INMUTABLE POR CAMBIO, NUNCA DESCENDENTE
+# LA VERSION ES ÚNICA X CAMBIO, NUNCA DESCENDENTE
 
 # LAS CITAS DEBERAN SEGIR LOS LINEAMIENTOS DEL CÓDIGO DE COMPORTAMIENTO
 
@@ -25,4 +25,3 @@ Quotes:
     "El hombre araña siempre tendrá enemigos. No quiero arriesgarte nunca, y yo siempre seré el hombre araña. Para nosotros no hay futuro."
     "¿Quieren saber quién soy? ¿Están seguros? La historia de mi vida no es para los débiles de corazón. Si alguien dijera que es una historia feliz... Si alguien dijera que soy una persona ordinaria, sin nada de qué preocuparme... les estaría mintiendo."
     "Lo mejor de Mary Jane es cuando la miras a los ojos y ella te mira a los tuyos."
-    
