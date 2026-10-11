@@ -9,7 +9,7 @@
 
 
 Version:
-    9
+    10
 
 
 Quotes:
@@ -21,3 +21,4 @@ Quotes:
     "Deja de decir mmds MaryJane!."
     "Un gran poder conlleva una gran responsabilidad."
     "A veces, para hacer lo correcto, tienes que ser firme y renunciar a lo que más deseas."
+    "¿Quieren saber quién soy? ¿Están seguros? La historia de mi vida no es para los débiles de corazón. Si alguien dijera que es una historia feliz... Si alguien dijera que soy una persona ordinaria, sin nada de qué preocuparme... les estaría mintiendo."
